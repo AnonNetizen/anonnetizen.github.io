@@ -20,7 +20,7 @@
 
 [Markdown速查](https://github.com/MSTBL/other/mdlookup)
 
-[屈原生平](https://github.com/MSTBL/other/quyuan) [spoiler]语文作业不忍心删就放这了[\spoiler]
+[屈原生平](https://github.com/MSTBL/other/quyuan) ~~~语文作业不忍心删就放这了~~~
 
 [网站推荐](https://github.com/MSTBL/other/websites)
 
