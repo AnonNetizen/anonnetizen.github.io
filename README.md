@@ -6,27 +6,27 @@
 
 ## 算法
 
-[排列组合问题](https://mstbl.github.io/algo/acproblem)
+[排列组合问题](https://mstbl.github.io/docs/docs/algo/acproblem)
 
-[KMP算法](https://mstbl.github.io/algo/kmp)
+[KMP算法](https://mstbl.github.io/docs/algo/kmp)
 
-[背包问题](https://mstbl.github.io/knapsack)
+[背包问题](https://mstbl.github.io/docs/knapsack)
 
 ## C++
 
-[C++速查](https://mstbl.github.io/cpp/cpplookup)
+[C++速查](https://mstbl.github.io/docs/cpp/cpplookup)
 
-[C++优化](https://mstbl.github.io/cpp/cppoptmize)
+[C++优化](https://mstbl.github.io/docs/cpp/cppoptmize)
 
-[C++代码风格](https://mstbl.github.io/cpp/cppstyle)
+[C++代码风格](https://mstbl.github.io/docs/cpp/cppstyle)
 
 ## 其他
 
-[Markdown速查](https://mstbl.github.io/other/mdlookup)
+[Markdown速查](https://mstbl.github.io/docs/other/mdlookup)
 
-[屈原生平](https://mstbl.github.io/other/quyuan) ~~~语文作业不忍心删就放这了~~~
+[屈原生平](https://mstbl.github.io/docs/other/quyuan) ~~~语文作业不忍心删就放这了~~~
 
-[网站推荐](https://mstbl.github.io/other/websites)
+[网站推荐](https://mstbl.github.io/docs/other/websites)
 
 ---
 
@@ -34,7 +34,7 @@
 
 ## 代码
 
-[Github](https://mstbl.github.io)
+[Github](https://mstbl.github.io/docs)
 
 [洛谷](https://www.luogu.org/space/show?uid=130850)
 
