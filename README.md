@@ -1,6 +1,32 @@
-# 一个蒟蒻的博客
+# 站内索引
 
-以下为各种跳板
+## 算法
+
+[排列组合问题](https://github.com/MSTBL/algo/acproblem)
+
+[KMP算法](https://github.com/MSTBL/algo/kmp)
+
+[背包问题](https://github.com/MSTBL/knapsack)
+
+## C++
+
+[C++速查](https://github.com/MSTBL/cpp/cpplookup)
+
+[C++优化](https://github.com/MSTBL/cpp/cppoptmize)
+
+[C++代码风格](https://github.com/MSTBL/cpp/cppstyle)
+
+## 其他
+
+[Markdown速查](https://github.com/MSTBL/other/mdlookup)
+
+[屈原生平](https://github.com/MSTBL/other/quyuan) [spoiler]语文作业不忍心删就放这了[\spoiler]
+
+[网站推荐](https://github.com/MSTBL/other/websites)
+
+---
+
+## **以下为各种跳板**
 
 ## 代码
 
@@ -16,7 +42,7 @@
 
 另外，欢迎加入[效实中学Steam组(开放)](https://steamcommunity.com/groups/xszx)~~~伪官方~~~
 
-也欢迎关注[效实中学鉴赏家哦](https://store.steampowered.com/curator/33493516-%25E6%2595%2588%25E5%25AE%259E%25E4%25B8%25AD%25E5%25AD%25A6)
+也欢迎关注[效实中学鉴赏家](https://store.steampowered.com/curator/33493516-%25E6%2595%2588%25E5%25AE%259E%25E4%25B8%25AD%25E5%25AD%25A6)哦（不需要加速器）
 
 ## 音乐
 
