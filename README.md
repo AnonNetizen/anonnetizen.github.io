@@ -48,9 +48,9 @@
 
 ## 音乐
 
-首先一首highscore送给大家
+一首highscore送给大家
 
-<embed src="//music.163.com/style/swf/widget.swf?sid=29737634&type=2&auto=0&width=278&height=32" width="298" height="52"  allowNetworking="all"></embed>
+<embed src="//music.163.com/style/swf/widget.swf?sid=29737634&type=2&auto=0&width=278&height=32" width="298" height="52"  allowNetworking="all">
 
 [又是MSTBL](https://music.163.com/#/user/home?id=541311743)
 
