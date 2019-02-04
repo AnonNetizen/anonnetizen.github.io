@@ -4,11 +4,11 @@
 
 * 算法
 
-    * [排列组合问题](https://mstbl.github.io/docs/docs/algo/acproblem)
+    * [排列组合问题](https://mstbl.github.io/docs/algo/acproblem)
 
     * [KMP算法](https://mstbl.github.io/docs/algo/kmp)
 
-    * [背包问题](https://mstbl.github.io/docs/knapsack)
+    * [背包问题](https://mstbl.github.io/docs/algo/knapsack)
 
 * C++
 
@@ -25,6 +25,8 @@
     * [屈原生平](https://mstbl.github.io/docs/other/quyuan)  ~~语文作业不忍心删就放这了~~
 
     * [网站推荐](https://mstbl.github.io/docs/other/websites)
+
+    * [图论基础](https://mstbl.github.io/docs/other/graph)
 
 ---
 
