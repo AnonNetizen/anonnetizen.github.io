@@ -50,7 +50,7 @@
 
 首先一首highscore送给大家
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=420 height=52 src="//music.163.com/outchain/player?type=2&id=29737634&auto=0&height=32"></iframe>
+<embed src="//music.163.com/style/swf/widget.swf?sid=29737634&type=2&auto=0&width=278&height=32" width="298" height="52"  allowNetworking="all"></embed>
 
 [又是MSTBL](https://music.163.com/#/user/home?id=541311743)
 
