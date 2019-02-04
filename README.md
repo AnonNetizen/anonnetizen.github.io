@@ -42,7 +42,7 @@
 
 战网 MSTBL#5697 1251723072@qq.com
 
-另外，欢迎加入[效实中学Steam组(开放)](https://steamcommunity.com/groups/xszx)~~~伪官方~~~
+另外，欢迎加入[效实中学Steam组(开放)](https://steamcommunity.com/groups/xszx)~~伪官方~~
 
 也欢迎关注[效实中学鉴赏家](https://store.steampowered.com/curator/33493516-%25E6%2595%2588%25E5%25AE%259E%25E4%25B8%25AD%25E5%25AD%25A6)哦（不需要加速器）
 
