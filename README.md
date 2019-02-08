@@ -1,32 +1,22 @@
 # MSTBL的博客
 
+本博客还在搭建中，如发现各种问题请见谅，也欢迎来库里提出issue
+
 ## 站内索引
 
 * 算法
 
-    * [排列组合问题](https://mstbl.github.io/docs/algo/acproblem)
+    * [排列组合问题](docs/algo/acproblem)
 
-    * [KMP算法](https://mstbl.github.io/docs/algo/kmp)
+    * [KMP算法](docs/algo/kmp)
 
-    * [背包问题](https://mstbl.github.io/docs/algo/knapsack)
-
-* C++
-
-    * [C++速查](https://mstbl.github.io/docs/cpp/cpplookup)
-
-    * [C++优化](https://mstbl.github.io/docs/cpp/cppoptmize)
-
-    * [C++代码风格](https://mstbl.github.io/docs/cpp/cppstyle)
+    * [背包问题](docs/algo/knapsack)
 
 * 其他
 
-    * [Markdown速查](https://mstbl.github.io/docs/other/mdlookup)
+    * [Markdown速查](docs/other/mdlookup)
 
-    * [屈原生平](https://mstbl.github.io/docs/other/quyuan)  ~~语文作业不忍心删就放这了~~
-
-    * [网站推荐](https://mstbl.github.io/docs/other/websites)
-
-    * [图论基础](https://mstbl.github.io/docs/other/graph)
+    * [屈原生平](docs/other/quyuan)  ~~语文作业不忍心删就放这了~~
 
 ---
 
