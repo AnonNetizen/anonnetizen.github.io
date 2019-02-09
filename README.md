@@ -1,6 +1,6 @@
 # MSTBL的博客
 
-本博客还在搭建中，如发现各种问题请见谅，也欢迎来库里提出issue
+本博客还在搭建中，如发现有各种问题请见谅，也欢迎来库里提出issue。
 
 ## 站内索引
 
@@ -32,7 +32,7 @@
 
 [Steam跳板](https://steamcommunity.com/id/mstbl/) （ID MSTBL，上不了社区的话可以下个[uu加速器](https://uu.163.com)）
 
-战网 MSTBL#5697 1251723072@qq.com
+战网 MSTBL#5697（战网上现在只玩炉石）
 
 另外，欢迎加入[效实中学Steam组(开放)](https://steamcommunity.com/groups/xszx)~~伪官方~~
 
