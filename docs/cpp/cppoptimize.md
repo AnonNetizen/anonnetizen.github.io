@@ -9,4 +9,9 @@ printf/scanf快于cout/cin，具体原因百度
 ```cpp
 ios_base::sync_with_stdio(false);
 cin.tie(0);
+cout.tie(0);
 ```
+
+## 位运算
+
+参考-> [位运算](/.../other/bitwise)
