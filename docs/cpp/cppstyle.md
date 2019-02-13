@@ -1,5 +1,7 @@
 # C++代码风格
 
+具体的代码风格每个人都有不一样的理解，这里只放一些约定俗成的之类的东西
+
 ## 命名
 
 不加前缀时：
@@ -66,6 +68,27 @@ vector<int>  vecValue;   //vec表示vector容器的前缀
 [牛津英语缩写](https://public.oed.com/how-to-use-the-oed/abbreviations/)
 
 [韦氏词典中的缩写](https://en.wiktionary.org/wiki/Wiktionary:Abbreviations_in_Webster)
+
+## 注释
+
+### 块注释
+
+`/* */`不能嵌套
+
+```cpp
+/*这样写
+也
+可以*/
+
+/*
+ *但是一般在每一行前加"*"，并且"*"对齐
+ *第一行和最后一行不写东西
+ */
+```
+
+---
+
+***下面的有争议***
 
 ## using namespace std
 

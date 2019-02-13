@@ -3,7 +3,6 @@
 ## 站内索引
 
 * 算法
-
     * [排列组合问题](/docs/algo/acproblem)
     * [KMP算法](/docs/algo/kmp)
     * [背包问题](/docs/algo/knapsack)
@@ -11,10 +10,10 @@
 * C++
     * [C++优化](/docs/cpp/cppoptmize)
     * [C++代码风格](/docs/cpp/cppstyle)
-    * [位运算](/docs/other/bitwise)
+    * [`Sort()`函数](/docs/cpp/sort)
 
 * 其他
-    
+    * [位运算](/docs/other/bitwise)
     * [Markdown速查](/docs/other/mdlookup)
     * [屈原生平](/docs/other/quyuan)  ~~语文作业不忍心删就放这了~~
 
